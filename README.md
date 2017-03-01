@@ -11,4 +11,4 @@ It uses the Monte Carlo Pi and Chi-Square Distribution to determine these confid
 
 To run:
 
-java EncryptionDetector FILE [FILE...]
+`java EncryptionDetector FILE [FILE...]`
